@@ -7,8 +7,5 @@
 				"paths": [ "*"]
 			}
 		]
-	},
-	"appclips": {
-   	 	"apps": ["com.paragon.manoj.digivaletlite.Clip"]
-  	}
+	}
 }
